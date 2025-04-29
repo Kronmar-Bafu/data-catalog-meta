@@ -1,5 +1,4 @@
 {
-    "dct:modified": null,
     "adms:status": "published",
     "bv:classification": "none",
     "bv:personalData": "none",
@@ -11,11 +10,16 @@
     "dct:description": {
         "de": "Nationalen Beobachtung der Oberfl\u00e4chengew\u00e4sserqualit\u00e4t (NAWA)"
     },
-    "dct:issued": "XXXX-YY-DD",
+    "dct:issued": "2000-07-28",
+    "dct:modified": "2000-07-28",
     "dct:accessRights": "PUBLIC",
     "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
-    "dcta:contactPoint": {
+    "dcat:contactPoint": {
         "schema:name": "Florian Storck",
         "schema:email": "bafu@admin.ch"
-    }
+    },
+    "dcat:keyword": [
+        "Abteilung Hydrologie"
+    ],
+    "schema:image": "https://media.istockphoto.com/id/2202886132/photo/guadalhorce-or-guadalteba-reservoirs.jpg?s=2048x2048&w=is&k=20&c=0d9Q5jLF7xTbydHBF72LM54QIuKzK0KHp3xp5RjkAUQ="
 }
