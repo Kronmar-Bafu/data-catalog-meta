@@ -1,0 +1,21 @@
+{
+    "dct:modified": null,
+    "adms:status": "published",
+    "bv:classification": "none",
+    "bv:personalData": "none",
+    "bv:archivalValue": false,
+    "dct:identifier": 22,
+    "dct:title": {
+        "de": "Oberfl\u00e4chengew\u00e4sser NAWA - Trend"
+    },
+    "dct:description": {
+        "de": "Nationalen Beobachtung der Oberfl\u00e4chengew\u00e4sserqualit\u00e4t (NAWA)"
+    },
+    "dct:issued": "XXXX-YY-DD",
+    "dct:accessRights": "PUBLIC",
+    "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+    "dcta:contactPoint": {
+        "schema:name": "Florian Storck",
+        "schema:email": "bafu@admin.ch"
+    }
+}

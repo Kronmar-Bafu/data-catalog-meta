@@ -1,0 +1,1976 @@
+[
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 1,
+        "dct:title": {
+            "de": "Datenmodelle Anwendungen BAFU"
+        },
+        "dct:description": {
+            "de": "Metadaten:konzeptionelle und logische Datenmodelle inkl. abh\u00e4ngiger Elemente wie Entit\u00e4ten, Attribute etc. Die Modelle entstammen aktuellen Projekten"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Gerhard Furrer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 2,
+        "dct:title": {
+            "de": "Architekturmodelle Anwendungen BAFU"
+        },
+        "dct:description": {
+            "de": "Metadaten: Modelle nach MMB-Notation (MMB = ModellierungsMethode Bund = Archimate-Derivat) nach verschiedenen Sichten (Kontext, Whitebox, Datenfluss, Infrastruktur) der Anwendungen des BAFU inkl. dazugeh\u00f6riger Konzepte wie Komponenten, Schnittstellen, Technologien etc."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Gerhard Furrer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 3,
+        "dct:title": {
+            "de": "Datenkataloge Anwendungen BAFU"
+        },
+        "dct:description": {
+            "de": "Metadaten: semantische Beschreibung der Daten der Datenmodelle (s.1)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Gerhard Furrer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 4,
+        "dct:title": {
+            "de": "BPMN Modelle der Prozesse BAFU"
+        },
+        "dct:description": {
+            "de": "Metadaten: Gesch\u00e4ftsprozessmodelle nach BPMN"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Annett Siekert (temp. Modelle: Gerhard Furrer)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 5,
+        "dct:title": {
+            "de": "Verbandsbeschwerden"
+        },
+        "dct:description": {
+            "de": "Statistik \u00fcber alle erfolgten Verbandsbeschwerden"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Stefanie Hug (RD2)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 6,
+        "dct:title": {
+            "de": "Kantonale Gerichtsurteile im Umweltrecht "
+        },
+        "dct:description": {
+            "de": "Verfolgung der kantonalen Rechtsprechung, Aufsicht, Pr\u00fcfung der Beh\u00f6rdenbeschwerde"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Nathalie Bl\u00e4uer (JSS)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 7,
+        "dct:title": {
+            "de": "Strafanzeigen"
+        },
+        "dct:description": {
+            "de": "BAFU erhebt von Amtes wegen Strafanzeigen gest\u00fctzt auf Vollzugskompetenz"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andrea von May (RD3)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 8,
+        "dct:title": {
+            "de": "Entscheide Umweltstrafrecht"
+        },
+        "dct:description": {
+            "de": "Statistik \u00fcber die nach der Verordnung \u00fcber die Mitteilung kantonaler Strafentscheide (SR 312.3) dem BAFU zugestellter Entscheide"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Jan Boltshauser (RD3)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 9,
+        "dct:title": {
+            "de": "Nationale Bodenbeobachtung NABO"
+        },
+        "dct:description": {
+            "de": "NABO erfasst und beurteilt an rund 110 Standorten die zeitliche Entwicklung der Bodenqualit\u00e4t anhand chemischer, physikalischer und biologischer Bodeneigenschaften. Das Messnetz wird seit 1985 betrieben und die Standorte alle 5 Jahre beprobt. "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Thomas Drobnik ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 10,
+        "dct:title": {
+            "de": "Daten Schadstoffbelastungen "
+        },
+        "dct:description": {
+            "de": "Gem\u00e4ss Art. 4 VBBo sind die Kantone verpflichtet, in Gebieten mit erwarteten oder festgestellten Bodenbelastungen, welche die Bodenfruchtbarkeit gef\u00e4hrden, diese  zu \u00fcberwachen. Die Resultate der \u00dcberwachung bilden die Grundlage des Geobasisdatensatzes 125 gem. Anhang 1 GeoIV"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Christine Hauert",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 11,
+        "dct:title": {
+            "de": "Daten aus kantonalen Bodenbeobachtungen "
+        },
+        "dct:description": {
+            "de": "\u00dcberschneidet sich mit Nr. 2., einige Kantone haben f\u00fcr die \u00dcberwachung der Bodenbelastung ein eigenes kantonales Bodenbeobachtungnetz. Grundlage bildet auch hier der Geobasisdatensatz 125 gem. Anhang 1 GeoIV"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Christine Hauert",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 12,
+        "dct:title": {
+            "de": "Bodenkartierungsdaten "
+        },
+        "dct:description": {
+            "de": "Punkt- und Fl\u00e4chendaten aus Bodenkartierungsprojekten. Bisher v.a. von kantonalen Kartierungen. Wenige von WSL, oder alte Profildaten (siehe n\u00e4chster Eintrag). "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Christine Hauert",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 13,
+        "dct:title": {
+            "de": "Bodendateninventar Agroscope "
+        },
+        "dct:description": {
+            "de": "Bodendateninventar der Agroscope wurde digitalisiert und in NABODAT aufgenomment. "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Christine Hauert ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 14,
+        "dct:title": {
+            "de": "Geochemischer Bodenatlas"
+        },
+        "dct:description": {
+            "de": "Es wurden Karten erstellt, welche die Verteilung von 20 haupts\u00e4chlich geogenbedingten chemischen Elementen in der der Schweizer Oberb\u00f6den visualisieren. Sie bilden eine wichtige Grundlage f\u00fcr die Umsetzung beim Umgang mit geogen belasteten B\u00f6den.Punktdaten sind in NABODAT. "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Alice Badin ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 15,
+        "dct:title": {
+            "de": "BDM Daten "
+        },
+        "dct:description": {
+            "de": "Teil der Punktdaten f\u00fcr die Erstellung von Nr. 6. f\u00fcr die Erstellung des geochem. Bodenatlas wurde im Rahmen des Biodiversit\u00e4tsmonitorings (BDM) Bodenproben genommen. Insgesamt wurden so bei 1082 Standorten Bodenproben entnommen (einmalig). "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Thomas Drobnik ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 16,
+        "dct:title": {
+            "de": "Erosionsrisikokarte"
+        },
+        "dct:description": {
+            "de": "Erosionsrisikokarte des Ackerlands im 2x2-Meter Raster liegt in zwei Ausf\u00fchrungen vor: als qualitative Risikokarte, sowie als quantitative Risikokarte, die den langj\u00e4hrigen mittleren potentiellen Bodenabtrag in t/ha und Jahr veranschaulicht.Plus Fliesswegkarte, die die Wasseransammlungen und Abflusswege im Gel\u00e4nde anzeigt. Die Erosionsrisikokarten des Dauergr\u00fcnlands liegen als monatliche Karten mit einer r\u00e4umlichen Aufl\u00f6sung von 100 x 100 Meter vor."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Corsin Lang ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 17,
+        "dct:title": {
+            "de": "ECOGEN"
+        },
+        "dct:description": {
+            "de": "Verzeichnis s\u00e4mtlicher melde-oder bewilligungspflichtiger Aktivit\u00e4ten mit Organismen in geschlossenen Systemen in der Schweiz gem\u00e4ss Einschliessungsverordnung (ESV)."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andrea Johner (JOH), Basil Gerber (GB)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 18,
+        "dct:title": {
+            "de": "Monitoring invasiver gebietsfremder Stechm\u00fccken in der Schweiz"
+        },
+        "dct:description": {
+            "de": "Landesweite \u00dcberwachung der Tigerm\u00fccke (Aedes albopictus), das Asiatischen Buschm\u00fccke (Aedes japonicus) und der koreanischen Buschm\u00fccke (Aedes koreicus) "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Basil Gerber (GB)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 19,
+        "dct:title": {
+            "de": "Monitoring gentechnisch ver\u00e4nderter Pflanzen in der Schweiz"
+        },
+        "dct:description": {
+            "de": "Landesweite \u00dcberwachungvon gentechnisch ver\u00e4nderten Pflanzen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Jan Z\u00fcnd (ZUJ)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 20,
+        "dct:title": {
+            "de": "Luftqualit\u00e4t"
+        },
+        "dct:description": {
+            "de": "Immissionswerte des Nationalen Beobachtungsnetzes f\u00fcr Luftfremdstoffe NABEL"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sektion Luftqualit\u00e4t",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 21,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser Basis-Messnetz"
+        },
+        "dct:description": {
+            "de": "Wassersand und Abfluss in Fliessgew\u00e4ssern und Seen (Quantit\u00e4t)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Petra Schmocker",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 22,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser NAWA - Trend"
+        },
+        "dct:description": {
+            "de": "Nationalen Beobachtung der Oberfl\u00e4chengew\u00e4sserqualit\u00e4t (NAWA)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 23,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser NAWA - Fracht"
+        },
+        "dct:description": {
+            "de": "Qualit\u00e4t Stofffrachten"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 24,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser Wasseremperatur"
+        },
+        "dct:description": {
+            "de": "Wassertemperatur "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 25,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser Tr\u00fcbung"
+        },
+        "dct:description": {
+            "de": "Tr\u00fcbung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 26,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser Schwebstoff"
+        },
+        "dct:description": {
+            "de": "Schwebstoff"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 27,
+        "dct:title": {
+            "de": "Oberfl\u00e4chengew\u00e4sser Badewasser-Qualit\u00e4t"
+        },
+        "dct:description": {
+            "de": "Badewasserqualit\u00e4t"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Florian Storck",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 28,
+        "dct:title": {
+            "de": "Grundwasser Naqua Quant "
+        },
+        "dct:description": {
+            "de": "Grundwasser Wasserstand (Quantit\u00e4t)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Flavio Malaguerra",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 29,
+        "dct:title": {
+            "de": "Grundwasser Naqua SPEZ"
+        },
+        "dct:description": {
+            "de": "Grundwasser Qualit\u00e4t"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Flavio Malaguerra",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 30,
+        "dct:title": {
+            "de": "Grundwasser Naqua TREND"
+        },
+        "dct:description": {
+            "de": "Grundwasser Qualit\u00e4t"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Flavio Malaguerra",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 31,
+        "dct:title": {
+            "de": "Grundwasser Naqua ISOT"
+        },
+        "dct:description": {
+            "de": "Isotope"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Flavio Malaguerra",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 32,
+        "dct:title": {
+            "de": "Treibhausgasinventar"
+        },
+        "dct:description": {
+            "de": "Vollst\u00e4ndige Statistik der Emissionen und Entz\u00fcge von Treibhausgasen in der Schweiz"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Adrian Schilt, Regine R\u00f6thlisberger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 33,
+        "dct:title": {
+            "de": "CO2-Emissionen Geb\u00e4ude"
+        },
+        "dct:description": {
+            "de": "CO2-Emissionen der Geb\u00e4ude pro Kanton"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Gianna Battaglia, Regine R\u00f6thlisberger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 34,
+        "dct:title": {
+            "de": "Emissionshandelssystem EHS"
+        },
+        "dct:description": {
+            "de": "Daten, welche im Rahmen der Umsetzung des Emissionshandelssystem (station\u00e4re Anlagen und Luftfahrt) erfasst werden."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Manfred Poffet, Simone von Felten",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 35,
+        "dct:title": {
+            "de": "Verminderungsverpflichtung"
+        },
+        "dct:description": {
+            "de": "Daten, welche im Rahmen der Umsetzung der Verminderungsverpflichtungen erfasst werden."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Manfred Poffet, Simone von Felten",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 36,
+        "dct:title": {
+            "de": "Kompensation"
+        },
+        "dct:description": {
+            "de": "Daten, welche im Rahmen von Kompensationsprojekten erfasst werden."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Aric Gliesche, Kaspar W\u00fcthrich",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 37,
+        "dct:title": {
+            "de": "Klimapolitische Massnahmen"
+        },
+        "dct:description": {
+            "de": "Zusammenstellung der klimapolitischen Massnahmen zur Berichterstattung im Rahmen der UNFCCC (Biennial Transparency Report, National Communications)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Adrian Schilt",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 38,
+        "dct:title": {
+            "de": "Emissionshandelsregister EHR"
+        },
+        "dct:description": {
+            "de": "Daten, die im Rahmen der Aufbewahrung und Transaktion von Emissionsrechten, Bescheinigungen und Emissionsminderungszertifikaten sowie im Rahmen von Versteigerungen von Emissionsrechten erfasst werden"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Manfred Poffet, Susanne Riedener",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 39,
+        "dct:title": {
+            "de": "Swisstopo Geodaten"
+        },
+        "dct:description": {
+            "de": "Alle Erhebungen der swisstopo, die zu Geodatenprodukten f\u00fchren"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Zagorka Saula ",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 40,
+        "dct:title": {
+            "de": "Kantonale Geodaten und -dienste"
+        },
+        "dct:description": {
+            "de": "Verschiedene kantonale Erhebungen gem\u00e4ss GSchG zu Zustand der Gew\u00e4sser und zu Massnahmen an denselben. Gemeint sind hier all diejenigen Daten/Dienste, die in den Geltungsbereich des GeoIG fallen und als Dienste von den Kantonen bereitgestellt werden.  - Verschiedene Geobasisdatens\u00e4tze"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Fachlich: Verschiedene Fachpersonen der Abt. Wasser \"Technisch\": Urs Helg",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 41,
+        "dct:title": {
+            "de": "Landwirtschafliche Betriebsstrukturerhebung"
+        },
+        "dct:description": {
+            "de": "Standorte der landw. Betriebe der Schweiz und die wichtigsten betrieblichen Kennzahlen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Urs Helg",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 42,
+        "dct:title": {
+            "de": "Legacy-Datensammlungen"
+        },
+        "dct:description": {
+            "de": "Einige Datensammlungen in der Abteilung, die  fr\u00fcher durch die Abteilung selbst aufgebaut und gepflegt wurden, in den letzten Jahren aber sukzessive durch kantonale Geobasisdatens\u00e4tze und -dienste abgel\u00f6st wurden oder in K\u00fcrze abgel\u00f6st werden. - Fischlebensr\u00e4ume- Planerischer Gew\u00e4sserschutz - \"ARA-DB \" - \u00d6komorphologie Fliessgew\u00e4sser"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Variabel",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 43,
+        "dct:title": {
+            "de": "Photodatenbank Abt. Wasser"
+        },
+        "dct:description": {
+            "de": "Umfangreiche Sammlung von Photos zu Wasserkraftanlagen, inklusive Schlagw\u00f6rter und wesentlichste (EXIF)-Metadaten, inklusive die Standorte der Photos. "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "\"Technisch\": Urs Helg Fachlich : Emilie Person",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 44,
+        "dct:title": {
+            "de": "NAWA Bio"
+        },
+        "dct:description": {
+            "de": "Biologische Erhebungen an Fliessgew\u00e4ssern am Monitoringnetz \"NAWA\" (rund 150 Stationen). "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Yael Schindler",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 45,
+        "dct:title": {
+            "de": "An ARA angeschlossene Einwohner"
+        },
+        "dct:description": {
+            "de": "Kantonale Erhebung zu den an die ARAs angeschlossenen Einwohner: Die original kantonalen Daten werden nach Bereinigung ver\u00f6ffentlich, zudem werden Derivate und abgeleitete Daten ver\u00f6ffentlicht: Daten zur MV-Reinigungsleistung der ausgebaute ARA, Verwaltungs-Adressen der ARA, Eang der ARA"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "1. S\u00e9bastien Lehmann 2. Caroline Liebich",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 46,
+        "dct:title": {
+            "de": "Umsetzungskontrolle Bef\u00fcll- und Waschpl\u00e4tze (BWP) von Pflanzenschutzmittelspritzger\u00e4ten"
+        },
+        "dct:description": {
+            "de": "Kantone kontrollieren, ob die Bef\u00fcll- und Waschpl\u00e4\u00f6tze GSchG - konform sind. Die Kantone senden j\u00e4hrlich eine Tabelle, die Auskunft gibt \u00fcber mangelhafte BWP sowie die totale Anzahl gepr\u00fcfter BWP"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Urs Sch\u00f6nenberger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 47,
+        "dct:title": {
+            "de": "UmKo Revitalisierung"
+        },
+        "dct:description": {
+            "de": "Umsetzungskontrolle Revitalisierung f\u00fcr Fliessgew\u00e4sser, Seen, Geschiebe und L\u00e4ngsvernetzung."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Gesamtverantwortung: Gregor Thomas Umsetzung: C.Renner",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 48,
+        "dct:title": {
+            "de": "Berichterstattungspflicht Trockenheit (2015, 2018, 2022)"
+        },
+        "dct:description": {
+            "de": "Frageb\u00f6gen an Fachstellen Gew\u00e4sserschutz und Fischerei nach Trockenheits-Ereignissen auf Basis findmind"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Fabian Mauchle",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 49,
+        "dct:title": {
+            "de": "Erhebung zum Vollzugsstand Grundwasserschutz  (geplant)"
+        },
+        "dct:description": {
+            "de": "Umsetzung der Empfehlung 3 des GPK-N Berichtes (Massnahmen im Grundwasserschutz)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Fr\u00e9d\u00e9ric Guhl",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 50,
+        "dct:title": {
+            "de": "Restwasserkarte Schweiz (BAFU 2007)"
+        },
+        "dct:description": {
+            "de": "Damit der Vollzug des GSchG im Bereich Restwassersanierung (Art. 80 ff. GSchG) \u00fcberblickt werden kann und zur Information der \u00d6ffentlichkeit und anderer interessierter Stellen, wurden die von den Kantonen erstellten und dem Bund eingereichten Inventare der bestehenden Wasserentnahmen in einer nationalen Restwasserkarte (BAFU 2007, Massstab 1 : 200\u2019000) wie auch digital (WebGIS, Zusatzdaten und Rohdaten zum Download) publiziert."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Marc Baumgartner",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 51,
+        "dct:title": {
+            "de": "VTM Erhebung Vollzugsstand (2009, 2016, 2025)"
+        },
+        "dct:description": {
+            "de": "Erhebung zum Stand des Vollzugs der VTM, neu alle 4 Jahre."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Fabian Mauchle",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 52,
+        "dct:title": {
+            "de": "Altholzstatistik"
+        },
+        "dct:description": {
+            "de": "Ressourcennutzung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 53,
+        "dct:title": {
+            "de": "Papierherstellerstatistik"
+        },
+        "dct:description": {
+            "de": "Papierherstellung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 54,
+        "dct:title": {
+            "de": "Holzverarbeitungserhebung"
+        },
+        "dct:description": {
+            "de": "Ressourcennutzung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 55,
+        "dct:title": {
+            "de": "Industrieholzerhebung"
+        },
+        "dct:description": {
+            "de": "Ressourcennutzung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 56,
+        "dct:title": {
+            "de": "Holzendverbrauchsstudie"
+        },
+        "dct:description": {
+            "de": "Holzverbrauch"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 57,
+        "dct:title": {
+            "de": "Unternehmensstatistik StatENT"
+        },
+        "dct:description": {
+            "de": "Arbeitnehmerauswertungen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 58,
+        "dct:title": {
+            "de": "Zollstatistik Aussenhandel"
+        },
+        "dct:description": {
+            "de": "Import-Export-Analyse"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 59,
+        "dct:title": {
+            "de": "Forstwirtschaftliche Gesamtrechnung"
+        },
+        "dct:description": {
+            "de": "Forstwirtschaftliches Monitoring"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Achim Schafer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 60,
+        "dct:title": {
+            "de": "Biotische Gefahren im Wald"
+        },
+        "dct:description": {
+            "de": "abiotische Faktoren im Wald"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Aline Knoblauch",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 61,
+        "dct:title": {
+            "de": "Nationales Kataster der Samenernte Best\u00e4nde"
+        },
+        "dct:description": {
+            "de": "Samenernte in der Schweiz"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andrea De Boni",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 62,
+        "dct:title": {
+            "de": "Holz-Energie-Statistik/ Gesamt-Energie-Statistik"
+        },
+        "dct:description": {
+            "de": "Holz-Energieverbrauch"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Alfred Kammerhofer",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 63,
+        "dct:title": {
+            "de": "Wald Monitoring Soziokulturell"
+        },
+        "dct:description": {
+            "de": "Wie wird der Wald genutzt"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Jean-Laurent Pfund",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 64,
+        "dct:title": {
+            "de": "Rodungsstatistik"
+        },
+        "dct:description": {
+            "de": "Nationale Rodungen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Adrian Schmutz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 65,
+        "dct:title": {
+            "de": "Forstwirtschaftliches Testbetriebsnetz (TBN)"
+        },
+        "dct:description": {
+            "de": "Finanzielle Kennzahlen zum Betrieb des Waldes"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Matthias Biolley",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 66,
+        "dct:title": {
+            "de": "Forststatistik"
+        },
+        "dct:description": {
+            "de": "Holzernte in der Schweiz"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Matthias Biolley",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 67,
+        "dct:title": {
+            "de": "Treibhausgas Inventar"
+        },
+        "dct:description": {
+            "de": "CO2 Ausstoss in bestimmten Sektoren"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Nele Rogiers",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 68,
+        "dct:title": {
+            "de": "Liste der Waldgesellschaften der Schweiz"
+        },
+        "dct:description": {
+            "de": "Politisches Entscheidungsinstrument"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Robert Jenni",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 69,
+        "dct:title": {
+            "de": "Langfristige Wald\u00f6kosystemforschung LWF"
+        },
+        "dct:description": {
+            "de": "Bodenzustand im Wald"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Verena Liedschulte",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 70,
+        "dct:title": {
+            "de": "Sanasilva"
+        },
+        "dct:description": {
+            "de": "Waldzustand"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Verena Liedschulte",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 71,
+        "dct:title": {
+            "de": "Landesforstinventar (LFI)"
+        },
+        "dct:description": {
+            "de": "Waldzuwachs nach Baumarten"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Marjo Kunnala",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 72,
+        "dct:title": {
+            "de": "Schutzwaldausscheidung"
+        },
+        "dct:description": {
+            "de": "Modell zu Naturgefahrenprozessen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Benjamin Lage",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 73,
+        "dct:title": {
+            "de": "Waldbiodiversit\u00e4t / Waldreservaten"
+        },
+        "dct:description": {
+            "de": "Anzahl und Lage der Waldreservate"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Claudio De Sassi",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 74,
+        "dct:title": {
+            "de": "Holzpreisstatistik"
+        },
+        "dct:description": {
+            "de": "Holzpreisentwicklung"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Matthias Biolley",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 75,
+        "dct:title": {
+            "de": "Interkantonale Waldbeobachtung (IAP)"
+        },
+        "dct:description": {
+            "de": "Waldzustand"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Verena Liedschulte",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 76,
+        "dct:title": {
+            "de": "Noise maps "
+        },
+        "dct:description": {
+            "de": "Erstellen von L\u00e4rmkarten und Statistiken zu den L\u00e4rmbetroffenen gem\u00e4ss der europ\u00e4ischen Umgebungsl\u00e4rmrichtlinie"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Nina Mahler; (Andreas Catillaz)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 77,
+        "dct:title": {
+            "de": "Periodisch Erhebungen \u00fcber den Stand der Strasssenl\u00e4rmsanierungen"
+        },
+        "dct:description": {
+            "de": "Das BAFU hat gem\u00e4ss Art. 20 LSV bei den Kantonen und dem ASTRA periodisch eine Erhebung zum Stand der Strassenl\u00e4rmsanierung durchzuf\u00fchren. Die f\u00fcr die Erhebung ben\u00f6tigten Daten werden von den Kantonen und dem ASTRA erfasst und an das BAFU \u00fcbermittelt. Diese Datenerhebung wird jedes Jahr bis zum 31. M\u00e4rz durchgef\u00fchrt."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Marl\u00e8ne Dias",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 78,
+        "dct:title": {
+            "de": "Berichterstattung PV L\u00e4rm-/Schallschutz"
+        },
+        "dct:description": {
+            "de": "Der Kantone erstatten dem BAFU j\u00e4hrlich Bericht \u00fcber die Verwendung der Beitr\u00e4ge"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Marl\u00e8ne Dias",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 79,
+        "dct:title": {
+            "de": "Strassenl\u00e4rm-Messdatensammlung ODeSSA"
+        },
+        "dct:description": {
+            "de": "Die Strasseneigent\u00fcmer (ASTRA, Kantone, Gemeinden/St\u00e4dte) beauftragen regelm\u00e4ssig Ingenieur-B\u00fcros mit vers. Strassenl\u00e4rm-Messungen. Auf freiwilliger Basis k\u00f6nnen die Auftraggeber solcher Messungen, die Ing.-B\u00fcros auch mit der Lieferung der (Roh-)Messdaten an die Empa (Bibliothekarin) beauftragen. Nach dem Open-Data-Prinzip k\u00f6nnen beispielsweise Forschungsstellen oder Ing.-B\u00fcros diese Messdaten f\u00fcr Analysen und Studien verwenden."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Michael Gerber",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 80,
+        "dct:title": {
+            "de": "BERENIS"
+        },
+        "dct:description": {
+            "de": "Systematisches Screening und Evaluation wissenschaftlicher Artikel zu den Auswirkungen von NIS auf Mensch und Umwelt. Die Evaluation wird kontinuierlich von der Beratenden Expert:innengruppe NIS (BERENIS) durchgef\u00fchrt und einmal pro Quartal in einem Newsletter ver\u00f6ffentlicht. Die in den Newslettern publizierten Informationen sind unterdessen systematisch \u00fcber eine Webapplikation zug\u00e4nglich. Datentyp: textuelle Synthesedaten, Bibliographie"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Maurane Riesen",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 81,
+        "dct:title": {
+            "de": "NIS-Expositionsmessungen"
+        },
+        "dct:description": {
+            "de": "Das NIS-Expositionsmessungen erfasst die tats\u00e4chliche Belastung der Bev\u00f6lkerung durch die wichtigsten Quellen von nichtionisierender Strahlung (z.B. Hochspannungsleitungen, Rund-funksender, Mobilfunkanwendungen, WLAN). Zu diesem Zweck werden seit 2021 schweizweit Messungen in typischen \u00f6ffentlichen Aussen- und Innenbereichen, in Privatwohnungen und an f\u00fcnf Messstationen durchgef\u00fchrt. Datentypen: 1) georeferenzierte Messdaten von mobilen Messungen, die mit einem Messrucksack zu Fuss erhoben werden (Zeitreihen aufgrund Whlg der Messungen ca. alle 2-3 Jahre) 2) Messdaten von mobilen in-house Messungen (Zeitreihen aufgrund Whlg der Messungen ca. alle 2-3 Jahre) 3) Messdaten von station\u00e4ren in-house Messungen (Dauer 15 min und 24 h)  4) Messdaten von station\u00e4ren Messstationen (kontinuierliche Dauermessungen)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sebastian Egger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 82,
+        "dct:title": {
+            "de": "NIS-Magnetfeldmodellierungen \u00dcbertragungsleitungen Strom"
+        },
+        "dct:description": {
+            "de": "Information der Bev\u00f6lkerung \u00fcber die Belastung durch Magnetfelder von Strom\u00fcbertragungsleitungen als Teil des gesetzlichen Auftrags des NIS-Monitorings. Die Berechnung ist zwar auf einen 5-Jahrestunus geplant. Eine j\u00e4hrliche Berechnung scheint aktuell jedoch m\u00f6glich, da die Berechnung weitestgehend automatisiert abl\u00e4uft. Bei einem differenziellen Abgleich w\u00e4re (zuk\u00fcnftig) auch ein Live-Monitoring denkbar, wenn beim BAFU eine entsprechende Infrastruktur aufgebaut werden kann. Die Qualit\u00e4t der Berechungsergebnisse ist allerdings von unterschiedlichen Datenzulieferern abh\u00e4ngig Produkt: Schweizweiter Rasterdatensatz (Geodaten) mit dem Magnetfeld auf Bodenniveau (1 m) in 3x3m Aufl\u00f6sung in einem 200-Meter-Radius um die Strom\u00fcbertragungsleitungen  (d.h. X ,Y, Z, B-Feld) Datentyp: georeferenzierte Berechnungsdaten (Rasterdaten)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sebastian Egger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 83,
+        "dct:title": {
+            "de": "NIS-Magnetfeldmodellierungen Fahrleitungen Bahn"
+        },
+        "dct:description": {
+            "de": "- startet vorraussichtlich 2026 - Gesamtprozess grunds\u00e4tzlich \u00e4hnlich NIS-Magnetfeldmodellierungen \u00dcbertragungsleitungen Strom, jedoch mit anderen Datenquellen und Ausbreitung-Algorithmen (oder externer Software) Ziel: \u00e4hnlicher Rasterdatensatz wie bei den \u00dcbertragungsleitungen Strom Datentyp: georeferenzierte Berechnungsdaten (Rasterdaten)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sebastian Egger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 84,
+        "dct:title": {
+            "de": "NIS-Modellierungen station\u00e4rer Hochfrequenzquellen"
+        },
+        "dct:description": {
+            "de": "- startet voraussichtlich 2025 - Gesamtprozess grunds\u00e4tzlich \u00e4hnlich NIS-Magnetfeldmodellierungen \u00dcbertragungsleitungen Strom, jedoch mit anderen Datenquellen und Algorithmen (oder externer Software) f\u00fcr die Ausbreitung des elektrischen Feldes  Ziel: Schweizweiter, fl\u00e4chendeckender Rasterdatensatz der elektrischen Feldst\u00e4rke, ausgehend von TV-, Rundfunk- & Mobilfunkantennen Datentyp: georeferenzierte Berechnungsdaten (Rasterdaten)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sebastian Egger",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 85,
+        "dct:title": {
+            "de": "Umfrage zum Nutzungsverhalten & Verwendung k\u00f6rpernaher NIS-Quellen"
+        },
+        "dct:description": {
+            "de": "Erhebung zur Durchdringung, Verwendung und Nutzung k\u00f6rpernah betriebener elektrischer Ger\u00e4te (bzw. k\u00f6rpernaher NIS-Quellen), die  relevant f\u00fcr die pers\u00f6nliche Exposition sein k\u00f6nnen (z.B. Mobiltelefone, Smartwatches, Bluetoothkopfh\u00f6rern, Induktionskochherde, Heizdecken, etc.). Die Erhebung fand erstmalig im Nov 2024 statt und soll in einem kleineren Rahmen in die OMNIBUS-Erhebung vom Bundesamt f\u00fcr Statistik integriert werden, die in einem 4-Jahresturnus stattfindet (n\u00e4chste Erhebung 2027). Datentyp: Umfragedaten"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Sebastian Egger (BAFU) + Evelyn Stempfel (BAG)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 86,
+        "dct:title": {
+            "de": "Meteodaten f\u00fcr L\u00e4rmausbreitungsberechnung (2019)"
+        },
+        "dct:description": {
+            "de": "GIS-Datensatz mit Angaben zu vertikalen Profilen der Windgeschwindgkeiten und der Temperatur in der bodennahen Atmosph\u00e4fe zur Berechnung des Meteoeinflusses auf die L\u00e4rmausbreitung."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Kornel K\u00f6stli",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 87,
+        "dct:title": {
+            "de": "Grundlagendaten f\u00fcr die L\u00e4rmausbreitungsberechnung sonARMS/sonAIR (2022)"
+        },
+        "dct:description": {
+            "de": "4 GIS-Datens\u00e4tze: Bodenbedeckung, Terrainmodell, Geb\u00e4ude, Hintergrundkarte f\u00fcr ganz CH um L\u00e4rmimmissionskarten zu berechnen"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Kornel K\u00f6stli; (Andreas Catillaz)",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 88,
+        "dct:title": {
+            "de": "Befragungsdaten gekoppelt mit L\u00e4rmwerten aus empirischen sozioakustischen Befragungsstudien (seit 2001)"
+        },
+        "dct:description": {
+            "de": "In der Abt. L\u00e4NIS werden Daten gesammelt, die im Rahmen von empirischen Befragungsstudien generiert werden bzw. wurden, im Wesentlichen mit Variablen zur Bel\u00e4stigung und anderen selbstberichteten gesundheitlichen L\u00e4rmauswirkungen. (Beispiel: SiRENE-Befragung) Es handelt sich insgesamt um ungef\u00e4hr 8 Erhebungen (ca. 20'000 Records)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Mark Brink",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 89,
+        "dct:title": {
+            "de": "L\u00e4rmbelastungskarten \u2013 nationale \u00dcbersicht (2015)"
+        },
+        "dct:description": {
+            "de": "L\u00e4rmbelastungskarten \u2013 nationale \u00dcbersicht gem\u00e4ss Geodatenmodell (ID 120.1-4)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andreas Catillaz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 90,
+        "dct:title": {
+            "de": "L\u00e4rmbelastungskarten \u2013 nationale \u00dcbersicht (2021)"
+        },
+        "dct:description": {
+            "de": "L\u00e4rmbelastungskarten \u2013 nationale \u00dcbersicht gem\u00e4ss Geodatenmodell (ID 120.1-4)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andreas Catillaz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 91,
+        "dct:title": {
+            "de": "L\u00e4rmmonitoring 2021 (Szenario Gesamtverkehr 2021)"
+        },
+        "dct:description": {
+            "de": "Ergebnisse des L\u00e4rmmonitorings 2021 Szenario \"Gesamtverkehr 2021\"Die L\u00e4rmpegel aus dem Jahr 2021 umfassen die Quellen Strassen-, Eisenbahn- und Flugverkehr in der Schweiz. Beim Flugverkehr wurden lediglich die Flugh\u00e4fen Z\u00fcrich und Genf ber\u00fccksichtigt. Die L\u00e4rmpegel (Lr und Leq) liegen f\u00fcr die Zeitperioden Tag und Nacht f\u00fcr Strassen- und Eisenbahnverkehr vor. F\u00fcr den Flugl\u00e4rm sind zus\u00e4tzlich die Zeitperioden Tag, Nacht 1, Nacht 2 und Nacht 3 verf\u00fcgbar. Die L\u00e4rmpegel liegen als Fassadenpunkte vor (Punkt-Geometrie mit Z-Koordinate). Diese k\u00f6nnen folgenderma\u00dfen abgelegt werden: Hausbeurteilung: Punktgeometrie bezogen auf einzelne Geb\u00e4ude. Wohnbeurteilung: Punktgeometrie bezogen auf Wohneinheiten (pro Geb\u00e4ude pro Stockwerk). Je nach Auswahl k\u00f6nnen statistische Werte wie Maximalwert, Minimalwert, Mittelwert (Mean) usw. gespeichert werden. Alternativ k\u00f6nnen die L\u00e4rmpegel auch direkt auf den Geb\u00e4udedatensatz (z. B. swissBuildings mit EGID) \u00fcbertragen werden. Verf\u00fcgbare Features in FileGeodatabase: Geb\u00e4ude Hausbeurteilung Wohnbeurteilung Fassadenpunkte Strassen, Bahnlinie Diese sind jeweils verf\u00fcgbar als: Lr oder Leq F\u00fcr Strassen-, Bahn- und Flugverkehr F\u00fcr die Zeitperioden Tag, Nacht, Day, Evening und Night. Weitere Daten wurden f\u00fcr interne Berechnungen und Auswertungen verwendet, sind jedoch nicht zur Ver\u00f6ffentlichung vorgesehen. Szenario \"Flugl\u00e4rm 2019\" F\u00fcr den Flugl\u00e4rm 2019 gilt dasselbe Konzept wie f\u00fcr das Szenario \"Gesamtverkehr 2021\". Die Daten umfassen die Flugh\u00e4fen Z\u00fcrich und Genf und k\u00f6nnen ebenfalls f\u00fcr Tag, Nacht 1, Nacht 2 und Nacht 3 bereitgestellt werden. Szenarien f\u00fcr die Ver\u00f6ffentlichung Die folgenden Szenarien sind f\u00fcr die Publikation vorgesehen: Gesamtverkehr 2021 (Strassen und Eisenbahn) Flugl\u00e4rm 2019 Zus\u00e4tzliche Szenarien (intern und extern nutzbar) Dar\u00fcber hinaus existieren weitere Szenarien, die f\u00fcr interne Zwecke oder spezifische externe Anwendungen genutzt werden k\u00f6nnen: Maximaler Pegel \"Gesamtverkehr 2021\" (intern, methodikvergleich) Maximaler Pegel \"Flugl\u00e4rmbelastung 2019\" (intern, methodikvergleich) EKLB_GV21_Option1_Leq_gleich_Lr (intern, extern) Hauptverkehr_EUA_2021.gdb (intern, extern) SENS_ES15_Strasse_Bahn_Flug19 ((intern, methodikvergleich) GV21_Hauptstra\u00dfennetz (intern, extern) GV21_Nationalstra\u00dfennetz vor Netzbeschluss 2020 (intern, extern)"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andreas Catillaz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 92,
+        "dct:title": {
+            "de": "Verkehrsmodellierung im UVEK; Daten Zustand 2021 (DTV, Strassenverkehr)"
+        },
+        "dct:description": {
+            "de": "Verkehrsmengen auf allen Strassen der Schweiz f\u00fcr die sieben Zeitintervalle 6-22, 22-6, 7-22, 22-7, 7-19, 19-23 und 23-7 Uhr im Jahr 2021. Als Basis der Berechnung wurde das NPVM eingesetzt. Das NPVM bildet den Verkehr in der gesamten Schweiz ab. In der hier verwendeten Version NPVM2017+ wurde erst k\u00fcrzlich die Verkehrsverteilung auf nachgelagerten Strassen verbessert, wovon die L\u00e4rmberechnung profitiert. Weiterhin wurden f\u00fcr die Berechnung der Verkehrsmengen 2021 umfangreiche empirische Verkehrsz\u00e4hlungen von mehreren Bundes\u00e4mtern und fast allen Kantonen \u00fcbernommen und verarbeitet. "
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andreas Catillaz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 93,
+        "dct:title": {
+            "de": "Fahrbahnlabor (Eisenbahn)"
+        },
+        "dct:description": {
+            "de": "Die permanente Messanlage umfasst eine Grundausstattung an Messsensorik und Messtechnik, welche fest auf der Teststrecke installiert ist. Die Messtechnik liefert kontinuierlich Daten des operativen Betriebs, welche ausgewertet und Interessierten zur Verfu\u0308gung gestellt werden"
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Andreas Catillaz",
+            "schema:email": "bafu@admin.ch"
+        }
+    },
+    {
+        "dct:modified": null,
+        "adms:status": "published",
+        "bv:classification": "none",
+        "bv:personalData": "none",
+        "bv:archivalValue": false,
+        "dct:identifier": 94,
+        "dct:title": {
+            "de": "Kontrolldaten im Rahmen der \u00dcberpr\u00fcfung des Qualit\u00e4tssicherungssystems von Mobilfunkanlagen"
+        },
+        "dct:description": {
+            "de": "Um nach der Inbetriebnahme der Mobilfunkanlagen sicherzustellen, dass die Mobilfunkanlagen die Grenzwerte f\u00fcr nichtionisierende Strahlung w\u00e4hrend des Betriebs einhalten, wurde ein Qualit\u00e4tssicherungssystem auf den Netzzentralen der Betreiber installiert. Dieses System wird zurzeit im Rahmen einer umfangreichen schweizweiten Stichprobenkontrolle vom BAFU \u00fcberpr\u00fcft. Dabei werden Parameter zur Geometrie und zum Betrieb von Mobilfunkanalgen erhoben und statistisch ausgewertet."
+        },
+        "dct:issued": "XXXX-YY-DD",
+        "dct:accessRights": "PUBLIC",
+        "dct:publisher": "BAFU-OFEV-UFAM-FOEN",
+        "dcta:contactPoint": {
+            "schema:name": "Joseph Al Ahmar",
+            "schema:email": "bafu@admin.ch"
+        }
+    }
+]
